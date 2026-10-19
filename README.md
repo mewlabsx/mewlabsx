@@ -1,19 +1,52 @@
-# Hi, I'm mewlabsx 👋
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/hello-mobile.png">
+    <img src="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/hello.png" width="900" alt="嗨，我是 mewlabsx。做点有意思的东西，慢慢把它做好。A little code. A little curiosity. At my own pace.">
+  </picture>
+</p>
 
-我在探索任务编排、可靠执行与 Agent 工具，也构建解决具体问题的开发者工具。
+<p>
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/recent-work-mobile.png">
+    <img src="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/recent-work.png" width="900" alt="最近在折腾的东西 · on my desk lately">
+  </picture>
+</p>
 
-I explore task orchestration, reliable execution, and agent tooling, and build practical developer tools.
+<p align="center">
+  <a href="https://github.com/mewlabsx/DynamicTaskMesh">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/dynamic-task-mesh-mobile.png">
+      <img src="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/dynamic-task-mesh.png" width="330" alt="DynamicTaskMesh：让任务和资源，好好配合。一个关于资源编排与可靠执行的实验。An exploration of resource orchestration and reliable execution.">
+    </picture>
+  </a>
+  &ensp;
+  <a href="https://github.com/mewlabsx/TaskOS">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/taskos-mobile.png">
+      <img src="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/taskos.png" width="330" alt="TaskOS：把任务、执行和文档，串起来。目前是一份早期源码预览。An early source preview for tasks, execution, and document workflows.">
+    </picture>
+  </a>
+</p>
 
-## Projects · 项目
+<p>
+  <a href="https://github.com/mewlabsx/visio-diagrams">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/visio-diagrams-mobile.png">
+      <img src="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/visio-diagrams.png" width="900" alt="visio-diagrams：把技术想法画成可编辑的 Visio 图。开发预览 · editable diagrams">
+    </picture>
+  </a>
+  <br>
+  <a href="https://github.com/mewlabsx/python-agent-practice">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/python-agent-practice-mobile.png">
+      <img src="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/python-agent-practice.png" width="900" alt="python-agent-practice：边写边学，拆开看看 Agent 怎么运转。学习 POC · learning by building">
+    </picture>
+  </a>
+</p>
 
-- **[DynamicTaskMesh](https://github.com/mewlabsx/DynamicTaskMesh)** — 面向任务的资源编排实验，关注执行权限、资源协调与可靠性。  
-  Experimental resource orchestration with explicit execution authority and resource boundaries.
-
-- **[TaskOS](https://github.com/mewlabsx/TaskOS)** — 任务编排、文档生成与执行追踪的早期源码预览。  
-  An early source preview for task orchestration, document production, and execution tracking.
-
-- **[visio-diagrams](https://github.com/mewlabsx/visio-diagrams)** — 将中文技术需求整理为可编辑的原生 Visio 图，当前为开发预览。  
-  A development preview for turning Chinese technical requirements into editable native Visio diagrams.
-
-- **[python-agent-practice](https://github.com/mewlabsx/python-agent-practice)** — 用 Python 学习 Agent 执行循环、工具调用、进程内记忆与结构化 RAG 的 POC。  
-  A Python learning POC for agent loops, tool calling, in-memory memory, and structured RAG.
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/footer-mobile.png">
+    <img src="https://raw.githubusercontent.com/mewlabsx/mewlabsx/main/assets/footer.png" width="900" alt="慢慢做，也慢慢发现。Thanks for stopping by. 谢谢你来，祝你今天也轻松一点。">
+  </picture>
+</p>
